@@ -17,7 +17,7 @@
         "type": "git",
         "url": "https://github.com/dejwk/roo_material_icons_sharp"
     },
-    "version": "1.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/dejwk/roo_material_icons_sharp",
     "frameworks": [
         "Arduino"
